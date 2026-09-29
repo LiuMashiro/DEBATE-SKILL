@@ -1,5 +1,5 @@
 # 辩术
-** DEBATE-SKILL **
+**DEBATE-SKILL**
 
 一个面向辩论、争论、反驳与说服性写作的 Agent Skill。
 
